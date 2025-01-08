@@ -34,6 +34,7 @@ img {
   border-radius: 50%;
   position: absolute;
   box-shadow: 0 12px 24px rgb(0, 0, 0, 0.29);
+  border: none;
 }
 
 .btn--left {
