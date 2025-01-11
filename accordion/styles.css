@@ -9,8 +9,8 @@ body {
   color: #444;
 }
 
-.open.content {
-  display: block;
+.hidden {
+  display: none;
 }
 
 .accordion {
